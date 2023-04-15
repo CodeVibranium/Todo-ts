@@ -8,6 +8,7 @@ const Dashboard: FC = (): ReactElement => {
       <Grid
         item
         xs={8}
+        spacing={4}
         sx={{
           display: 'flex',
           justifyContent: 'center',
